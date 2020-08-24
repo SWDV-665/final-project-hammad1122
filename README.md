@@ -1,1 +1,1 @@
-# ionic-firebase-crud
+# Appointments-app
